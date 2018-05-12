@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '31463'
     url: http://www.gutenberg.org/2009/agents/31463
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25619#Mystic-London-or-Phases-of-occult-life-in-the-metropolis
 gutenberg_issued: '2008-05-27'
 gutenberg_type: Text
 identifiers:
